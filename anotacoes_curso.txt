@@ -1,0 +1,7 @@
+Curso de GIT.
+
+git pool
+git status
+git commit
+git push
+
